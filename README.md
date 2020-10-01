@@ -1,2 +1,4 @@
 # Python-Game
-Game Programming with Python
+
+### Python is a High Level Programing Language<br>
+This Game has been created using the logics in Python
